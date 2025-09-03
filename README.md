@@ -1,40 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+This a webapp made using Next JS and Firebase.
 
-## Getting Started
+Here Employees can keep track of their work schedule, duration of their work and how much they can earn. 
 
-First, run the development server:
+The landing page looks like following 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<img width="1602" height="722" alt="image" src="https://github.com/user-attachments/assets/7074f45f-1d48-4144-8e8f-73c587ebcc4d" />
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The Log Page looks like following...
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<img width="1494" height="811" alt="image" src="https://github.com/user-attachments/assets/1c275a6a-fbed-4bfd-8906-367d57196db0" />
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Log is Saved!
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+<img width="1512" height="854" alt="image" src="https://github.com/user-attachments/assets/651705e1-1d22-4344-ac6b-72dcd4f8d76d" />
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The Dashboard Page looks like following...
 
-## Learn More
+<img width="1827" height="667" alt="image" src="https://github.com/user-attachments/assets/dc178559-116d-470b-9067-42721a60f0a8" />
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
